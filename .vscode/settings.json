@@ -1,0 +1,9 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": [],
+    "python.defaultInterpreterPath": "/workspaces/skills-build-applications-w-copilot-agent-mode/octofit-tracker/backend/venv/bin/python",
+    "python.pythonPath": "/workspaces/skills-build-applications-w-copilot-agent-mode/octofit-tracker/backend/venv/bin/python",
+    "python.analysis.extraPaths": [
+        "/workspaces/skills-build-applications-w-copilot-agent-mode/octofit-tracker/backend/venv/lib/python3.10/site-packages"
+    ]
+}
